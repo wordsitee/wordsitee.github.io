@@ -12,7 +12,7 @@
 
 <center>
 
-<h1 style="color:#fff; margin-top:290px; font-family: 'Azeret Mono', monospace; font-family: 'Ubuntu', sans-serif; font-size:50px;  background-image: linear-gradient(to left, #00ffbf 50%, #ff00ff , #800080);
+<h1 style="color:#fff; margin-top:200px; font-family: 'Azeret Mono', monospace; font-family: 'Ubuntu', sans-serif; font-size:50px;  background-image: linear-gradient(to left, #00ffbf 50%, #ff00ff , #800080);
         -webkit-background-clip: text;
         -moz-background-clip: text;
         background-clip: text;
