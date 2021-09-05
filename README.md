@@ -18,7 +18,7 @@
         background-clip: text;
         color: transparent;
       } border:none;"  class="" >MIUI 12</h1>
-<h1 style="color:#fff; margin-top:-360px; margin-left:260px; font-size:20px; border:none;  ">MIUI 12</h1>
+<h1 style="color:#fff; margin-top:-300px; margin-left:260px; font-size:20px; border:none;  ">MIUI 12</h1>
 </center>
 </body>
 </html>
