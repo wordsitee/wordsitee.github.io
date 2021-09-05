@@ -21,7 +21,7 @@
       
      
 <h1 id="demo" hrfe="#" style="color:#fff; margin-top:-360px; margin-left:260px; font-size:20px; display:none; "><a id="demo" href="#" style="color:#fff; text-decoration: none; ">wordsite v1.0</a></h1>
-<button style="width:40px; margin-top:-260px;  margin-left:-320px; margin-top:-700px; background-color:#000; border:none;" type="button" onclick="document.getElementById('demo').style.display='block'"><img style="width:90px; margin-left:-7px; background:#fff; margin-top:-700px; " src="https://cdn.icon-icons.com/icons2/2506/PNG/512/menu_icon_150667.png"></button>
+<button style="width:40px; margin-top:-260px;  margin-left:-320px; margin-top:-700px; background-color:#000; border:none;" type="button" onclick="document.getElementById('demo').style.display='block'"><img width="90" style="background:#fff;" src="https://cdn.icon-icons.com/icons2/2506/PNG/512/menu_icon_150667.png"></button>
 <p  style="color:#fff; display:none"></p>
 
 </center>
