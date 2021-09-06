@@ -2,7 +2,7 @@
 
 <html>
 <head>
-
+<meta name="google-site-verification" content="rLkJuyhmd29Pe-ZAbRUNt_vD8EcmYVF4ZdRR7_16mmI" />
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Azeret+Mono:wght@600&display=swap" rel="stylesheet">
