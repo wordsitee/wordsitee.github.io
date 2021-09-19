@@ -12,7 +12,7 @@
 
 <center>
 
-<h1 style="color:#fff; margin-top:290px; font-family: 'Azeret Mono', monospace; font-family: 'Ubuntu', sans-serif; font-size:50px;  background-image: linear-gradient(to left, #F0F8FF 90px, #F0FFFF , #00FFFF);
+<h1 style="color:#fff; margin-top:290px; font-family: 'Azeret Mono', monospace; font-family: 'Ubuntu', sans-serif; font-size:50px;  background-image: url(https://user-images.githubusercontent.com/90117272/133928348-7781e368-a8b5-41e4-97d7-571d7a32e5a9.jpg);
         -webkit-background-clip: text;
         -moz-background-clip: text;
         background-clip: text;
@@ -27,3 +27,12 @@
 </center>
 </body>
 </html>
+
+
+
+
+
+
+<center>
+
+ 
